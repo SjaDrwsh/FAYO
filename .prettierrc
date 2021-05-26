@@ -1,0 +1,4 @@
+{
+    "singleQuote": true,
+    "explicit-function-return-type": true
+}
